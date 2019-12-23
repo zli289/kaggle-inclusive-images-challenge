@@ -1,0 +1,1 @@
+Download images from https://github.com/cvdfoundation/open-images-dataset#download-full-dataset-with-google-storage-transfer
